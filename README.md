@@ -19,7 +19,7 @@ The following dashboards are included in this repository:
 To add any of the dashboards to your existing Grafana OTEL stack, you'll need to do the following for each stack:
 
 1. In grafana, go to Home > Dashboards.
-1. Select the "New" button and then "Import".
+1. Select the "New" button in the upper right hand side of the screen and then "Import".
 1. Select one of the dashboard links above.  It should take you to the raw text of the dashboard in json format.
 1. Copy the raw text to your clipboard
 1. Back in grafana, past the contents into the "Import via dashboard JSON model" text box.
